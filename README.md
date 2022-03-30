@@ -4,9 +4,9 @@
 This repository contains a homework submission.
 
 ```
-JHED=
-GITHUB_USERNAME=
-GITHUB_REPO=
+JHED= ehsieh2
+GITHUB_USERNAME= ehsieh2
+GITHUB_REPO= cs280spring-classroom/meme-generator-ehsieh2
 NETLIFY_SITE=
 ```
 
