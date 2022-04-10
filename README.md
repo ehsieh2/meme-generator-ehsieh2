@@ -7,7 +7,7 @@ This repository contains a homework submission.
 JHED= ehsieh2
 GITHUB_USERNAME= ehsieh2
 GITHUB_REPO= cs280spring-classroom/meme-generator-ehsieh2
-NETLIFY_SITE=
+NETLIFY_SITE= https://meme-generator-ehsieh2.netlify.app/
 ```
 
 Please refer to the description of Homework-4, Full-Stack JavaScript (Fall 2021) for details.
